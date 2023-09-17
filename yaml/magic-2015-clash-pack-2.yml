@@ -1,0 +1,121 @@
+---
+object: card
+id: 1129b8cb-6381-4d17-9e45-a61f9558d312
+oracle_id: 6f85342b-b55b-461b-a3dc-17815e02d04d
+multiverse_ids: []
+tcgplayer_id: 91343
+cardmarket_id: 268083
+name: Fated Intervention
+lang: en
+released_at: '2014-07-18'
+uri: https://api.scryfall.com/cards/1129b8cb-6381-4d17-9e45-a61f9558d312
+scryfall_uri: https://scryfall.com/card/cp1/2/fated-intervention?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/1/1129b8cb-6381-4d17-9e45-a61f9558d312.jpg?1561756673
+  normal: https://cards.scryfall.io/normal/front/1/1/1129b8cb-6381-4d17-9e45-a61f9558d312.jpg?1561756673
+  large: https://cards.scryfall.io/large/front/1/1/1129b8cb-6381-4d17-9e45-a61f9558d312.jpg?1561756673
+  png: https://cards.scryfall.io/png/front/1/1/1129b8cb-6381-4d17-9e45-a61f9558d312.png?1561756673
+  art_crop: https://cards.scryfall.io/art_crop/front/1/1/1129b8cb-6381-4d17-9e45-a61f9558d312.jpg?1561756673
+  border_crop: https://cards.scryfall.io/border_crop/front/1/1/1129b8cb-6381-4d17-9e45-a61f9558d312.jpg?1561756673
+mana_cost: "{2}{G}{G}{G}"
+cmc: 5.0
+type_line: Instant
+oracle_text: Create two 3/3 green Centaur enchantment creature tokens. If it's your
+  turn, scry 2. (Look at the top two cards of your library, then put any number of
+  them on the bottom of your library and the rest on top in any order.)
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Scry
+all_parts:
+- object: related_card
+  id: 1129b8cb-6381-4d17-9e45-a61f9558d312
+  component: combo_piece
+  name: Fated Intervention
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/1129b8cb-6381-4d17-9e45-a61f9558d312
+- object: related_card
+  id: 985be507-6125-4db2-b99f-8b61149ffeeb
+  component: token
+  name: Centaur
+  type_line: Token Enchantment Creature — Centaur
+  uri: https://api.scryfall.com/cards/985be507-6125-4db2-b99f-8b61149ffeeb
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: b1736f4e-cb0d-468a-9b4f-b08fb147cc17
+set: cp1
+set_name: Magic 2015 Clash Pack
+set_type: starter
+set_uri: https://api.scryfall.com/sets/b1736f4e-cb0d-468a-9b4f-b08fb147cc17
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acp1&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cp1?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1129b8cb-6381-4d17-9e45-a61f9558d312/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6f85342b-b55b-461b-a3dc-17815e02d04d&unique=prints
+collector_number: '2'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Deschamps
+artist_ids:
+- 37970e22-9cee-44c1-af44-5ee27cf26b76
+illustration_id: 851521c3-392d-4804-837f-2021e0006b7e
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 18510
+penny_rank: 10464
+prices:
+  usd: 
+  usd_foil: '0.23'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.19'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fated+Intervention&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fated+Intervention&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Fated+Intervention
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/91343?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fated+Intervention&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fated+Intervention&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

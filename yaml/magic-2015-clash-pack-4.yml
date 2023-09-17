@@ -1,0 +1,123 @@
+---
+object: card
+id: a0c9a2c4-e30a-480f-946f-bd9ec4751b99
+oracle_id: 9e4fb4b1-9b28-4a49-b4ac-d5549c08594d
+multiverse_ids: []
+tcgplayer_id: 91344
+cardmarket_id: 268084
+name: Hydra Broodmaster
+lang: en
+released_at: '2014-07-18'
+uri: https://api.scryfall.com/cards/a0c9a2c4-e30a-480f-946f-bd9ec4751b99
+scryfall_uri: https://scryfall.com/card/cp1/4/hydra-broodmaster?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/0/a0c9a2c4-e30a-480f-946f-bd9ec4751b99.jpg?1561757719
+  normal: https://cards.scryfall.io/normal/front/a/0/a0c9a2c4-e30a-480f-946f-bd9ec4751b99.jpg?1561757719
+  large: https://cards.scryfall.io/large/front/a/0/a0c9a2c4-e30a-480f-946f-bd9ec4751b99.jpg?1561757719
+  png: https://cards.scryfall.io/png/front/a/0/a0c9a2c4-e30a-480f-946f-bd9ec4751b99.png?1561757719
+  art_crop: https://cards.scryfall.io/art_crop/front/a/0/a0c9a2c4-e30a-480f-946f-bd9ec4751b99.jpg?1561757719
+  border_crop: https://cards.scryfall.io/border_crop/front/a/0/a0c9a2c4-e30a-480f-946f-bd9ec4751b99.jpg?1561757719
+mana_cost: "{4}{G}{G}"
+cmc: 6.0
+type_line: Creature — Hydra
+oracle_text: |-
+  {X}{X}{G}: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)
+  When Hydra Broodmaster becomes monstrous, create X X/X green Hydra creature tokens.
+power: '7'
+toughness: '7'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Monstrosity
+all_parts:
+- object: related_card
+  id: a0c9a2c4-e30a-480f-946f-bd9ec4751b99
+  component: combo_piece
+  name: Hydra Broodmaster
+  type_line: Creature — Hydra
+  uri: https://api.scryfall.com/cards/a0c9a2c4-e30a-480f-946f-bd9ec4751b99
+- object: related_card
+  id: 75961f7c-fc3b-49c6-96cc-c42d2aa1a044
+  component: token
+  name: Hydra
+  type_line: Token Creature — Hydra
+  uri: https://api.scryfall.com/cards/75961f7c-fc3b-49c6-96cc-c42d2aa1a044
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: b1736f4e-cb0d-468a-9b4f-b08fb147cc17
+set: cp1
+set_name: Magic 2015 Clash Pack
+set_type: starter
+set_uri: https://api.scryfall.com/sets/b1736f4e-cb0d-468a-9b4f-b08fb147cc17
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acp1&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cp1?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a0c9a2c4-e30a-480f-946f-bd9ec4751b99/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9e4fb4b1-9b28-4a49-b4ac-d5549c08594d&unique=prints
+collector_number: '4'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vincent Proce
+artist_ids:
+- d82b1138-76d3-49f7-9d8c-bc2e2d3e0b0a
+illustration_id: 2389e83f-eb28-4dbd-8988-7c8db6adc38b
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 3111
+penny_rank: 4881
+prices:
+  usd: 
+  usd_foil: '0.49'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.92'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hydra+Broodmaster&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hydra+Broodmaster&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hydra+Broodmaster
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/91344?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hydra+Broodmaster&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hydra+Broodmaster&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
